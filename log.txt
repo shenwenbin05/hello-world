@@ -1,0 +1,61 @@
+commit 778363823b1e7e061ba155dca5e9d0cebe5f177e
+Author: shen <123@123.com>
+Date:   Fri Oct 2 11:36:54 2015 +0800
+
+    提交环节，存在三大部分：working tree, index file, commit
+    
+    这三大部分中：
+    working tree：就是你所工作在的目录，每当你在代码中进行了修改，working
+    tree的状态就改变了。
+    index file：是索引件，它是连接working
+    tree和commit的桥梁，每当我们使用git-add命令来登记后，index
+    file的内容就改变了，此时index file就和working tree同步了。
+    commit：是最后的阶段，只有commit了，我们的代码才真正进入了git仓库。我们使用git-commit就是将index
+    file里的内容提交到commit中。
+    
+    总结一下：
+    git diff：是查看working tree与index file的差别的。
+    git diff --cached：是查看index file与commit的差别的。
+    git diff HEAD：是查看working
+    tree和commit的差别的。（你一定没有忘记，HEAD代表的是最近的一次commit的信息）
+
+commit 5ad65a2e74540b494a692482484575a66ceba459
+Author: shen <123@123.com>
+Date:   Thu Oct 1 14:08:56 2015 +0800
+
+    add one line through branch test
+
+commit 53660a32d229dc3b84275ab6a5bec45cb812f162
+Author: shen <123@123.com>
+Date:   Thu Oct 1 13:48:07 2015 +0800
+
+    add new file add_file.txt
+
+commit 6463baa84db2a7d17515974847afe8f1135d6a8f
+Author: shen <123@123.com>
+Date:   Sat Aug 15 16:30:40 2015 +0800
+
+    modified on my PC
+
+commit 1740184bc13b74ef48305cbef9ad0858b82e6ee9
+Merge: 9183295 ec54845
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Aug 15 15:15:59 2015 +0800
+
+    Merge pull request #2 from shenwenbin05/readme-edits
+    
+    finish my first testing Readme
+
+commit ec54845eaa690a24d487cbed48ba9068f538500a
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Aug 15 13:03:44 2015 +0800
+
+    finish my first testing Readme
+    
+    finish my first testing Readme -- additional message
+
+commit 91832953d6298c4967efce91345fd5ec8e846687
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Aug 15 12:13:10 2015 +0800
+
+    Initial commit
