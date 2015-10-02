@@ -1,3 +1,7 @@
 add one line through branch test --- Oct 1st, shen
 
 add the 2nd line through branch test --- Oct 2nd, shen
+
+
+git commit -m 'initial commit'
+git commit --amend
