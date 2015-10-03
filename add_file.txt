@@ -15,4 +15,7 @@ add new line in branch 'hotfix'
 2
 
 
-3         aaa
+
+3        add in brach test for generating confiliction
+
+resolved
