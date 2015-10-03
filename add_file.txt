@@ -14,4 +14,4 @@ add new line in branch 'hotfix'
 
 2
 
-3
+3         ------
