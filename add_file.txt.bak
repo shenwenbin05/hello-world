@@ -1,0 +1,22 @@
+add one line through branch test --- Oct 1st, shen
+
+add the 2nd line through branch test --- Oct 2nd, shen
+
+
+git commit -m 'initial commit'
+
+git commit --amend
+
+
+add new line in branch 'hotfix'
+
+1
+
+2
+
+
+<<<<<<< HEAD
+3         aaa
+=======
+3        add in brach test for generating confiliction
+>>>>>>> add a sentense in branch test
