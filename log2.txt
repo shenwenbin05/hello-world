@@ -1,0 +1,7 @@
+778363823b1e7e061ba155dca5e9d0cebe5f177e 提交环节，存在三大部分：working tree, index file, commit
+5ad65a2e74540b494a692482484575a66ceba459 add one line through branch test
+53660a32d229dc3b84275ab6a5bec45cb812f162 add new file add_file.txt
+6463baa84db2a7d17515974847afe8f1135d6a8f modified on my PC
+1740184bc13b74ef48305cbef9ad0858b82e6ee9 Merge pull request #2 from shenwenbin05/readme-edits
+ec54845eaa690a24d487cbed48ba9068f538500a finish my first testing Readme
+91832953d6298c4967efce91345fd5ec8e846687 Initial commit
