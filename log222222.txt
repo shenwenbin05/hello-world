@@ -1,0 +1,341 @@
+commit 5ea692b20224e023ec6f647915e9790bb5a58f61
+Merge: 2558247 a567fa1
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 17:29:21 2015 +0800
+
+    Merge pull request #17 from shenwenbin05/test
+    
+    add 1 line in add_file.txt
+
+commit a567fa155adc2e207133d25a560eff12effc446f
+Author: shen <123@123.com>
+Date:   Sat Oct 3 17:28:25 2015 +0800
+
+    add 1 line in add_file.txt
+
+commit 25582473eae797ffa3b0d11769a3b756ff5eb89a
+Merge: 289a573 4f919be
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 17:23:46 2015 +0800
+
+    Merge pull request #16 from shenwenbin05/test
+    
+    add log3.txt
+
+commit 4f919beab9dd3c3308fba165e3862ecb632dcf7d
+Author: shen <123@123.com>
+Date:   Sat Oct 3 17:23:24 2015 +0800
+
+    add log3.txt
+
+commit 289a5736f6bc1c7a751ae430acdbb5d6533b9856
+Merge: 0498c99 054625b
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 17:18:24 2015 +0800
+
+    Merge pull request #15 from shenwenbin05/test
+    
+    Revert "add log2.txt"
+
+commit 054625b549bc720f973edb313b19cb4a27be8853
+Author: shen <123@123.com>
+Date:   Sat Oct 3 17:16:41 2015 +0800
+
+    Revert "add log2.txt"
+    
+    This reverts commit b9e9eb4313d09651c099391b8a8a2b9f0f9fe3bd.
+
+commit 0498c998ccecf0e656f2c834565b7e678ce98c7f
+Merge: cf4e934 f940cce
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 17:05:57 2015 +0800
+
+    Merge pull request #14 from shenwenbin05/test
+    
+    add_file 17:05
+
+commit f940cce3473a8e11d0b3897b471ca88fd7a1a3f2
+Author: shen <123@123.com>
+Date:   Sat Oct 3 17:05:42 2015 +0800
+
+    add_file 17:05
+
+commit cf4e9349044abe41b40a9d848ad8eaff8f6ce29b
+Merge: 2edfa3b b9e9eb4
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 17:04:26 2015 +0800
+
+    Merge pull request #13 from shenwenbin05/test
+    
+    add log2.txt
+
+commit b9e9eb4313d09651c099391b8a8a2b9f0f9fe3bd
+Author: shen <123@123.com>
+Date:   Sat Oct 3 17:03:57 2015 +0800
+
+    add log2.txt
+
+commit 2edfa3be49817cd087fcd8eadb5f4d19c905a892
+Merge: 6f55cd7 3f916fc
+Author: shen <123@123.com>
+Date:   Sat Oct 3 16:42:12 2015 +0800
+
+    confict
+
+commit 3f916fcb2b12137a6a750a89132cea974e3c4e47
+Author: shen <123@123.com>
+Date:   Sat Oct 3 16:14:08 2015 +0800
+
+    add 1 line in file add_file
+
+commit 0c65111a2a56e76fbe025a6384aa9d96b25e79ad
+Author: shen <123@123.com>
+Date:   Sat Oct 3 16:14:08 2015 +0800
+
+    add 1 line in file add_file
+
+commit 6f55cd78edefeb1343ef50469e173111444aa64e
+Merge: ae8bdf8 e7d8061
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 16:18:46 2015 +0800
+
+    Merge pull request #12 from shenwenbin05/test
+    
+    add 1 line in file add_file
+
+commit e7d806114d8a58418e4ee8e0e7c1b85d37d7c9ee
+Author: shen <123@123.com>
+Date:   Sat Oct 3 16:14:08 2015 +0800
+
+    add 1 line in file add_file
+
+commit ae8bdf8479060f8fd248347c9551a1d49d31ec00
+Merge: 1267325 fca9f78
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 16:14:35 2015 +0800
+
+    Merge pull request #11 from shenwenbin05/test
+    
+    add 1 line in file add_file
+
+commit fca9f78f92717d0161171d0a56a4ca856077b1b9
+Author: shen <123@123.com>
+Date:   Sat Oct 3 16:14:08 2015 +0800
+
+    add 1 line in file add_file
+
+commit 1267325c7ff8c8c4916ad7e815832b580613e2ec
+Merge: 777e306 9a6d39e
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 16:12:14 2015 +0800
+
+    Merge pull request #10 from shenwenbin05/test
+    
+    add add_file.txt.bak
+
+commit 9a6d39ebf1f6b5f6ee340dfdcddaaba2c4e975b1
+Author: shen <123@123.com>
+Date:   Sat Oct 3 16:11:44 2015 +0800
+
+    add add_file.txt.bak
+
+commit 777e306ef29891721c8cedcf60276fe6288f6d96
+Merge: 77465ef c1a8983
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 15:26:54 2015 +0800
+
+    Merge pull request #9 from shenwenbin05/test
+    
+    the 2nd commit
+
+commit c1a89832735dfb508aa9533c5612ad5aa82be769
+Merge: 5ac8710 3aaf4ea
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 14:39:51 2015 +0800
+
+    the 2nd commit
+
+commit 77465ef02d69e38abd308351166717c0449492ac
+Merge: 5ac8710 3aaf4ea
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 14:39:51 2015 +0800
+
+    Merge pull request #8 from shenwenbin05/test
+    
+    add a sentense in branch test
+
+commit 3aaf4ead78fc5dcdcf51a66ca74cfb66ee720505
+Author: shen <123@123.com>
+Date:   Sat Oct 3 14:33:19 2015 +0800
+
+    add a sentense in branch test
+
+commit 5ac8710adca1f7a8ada22da7a4bf2bc7db1fafd3
+Author: shen <123@123.com>
+Date:   Sat Oct 3 14:31:46 2015 +0800
+
+    add aaa
+
+commit 72ef7608e23deed78cc4b1c808722402374946a9
+Merge: 22a24e7 f4a47e3
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 14:23:34 2015 +0800
+
+    Merge pull request #7 from shenwenbin05/test
+    
+    generate conficition in branch test
+
+commit f4a47e3c4fdd97936364fc0a911ebc4b036ed26b
+Author: shen <123@123.com>
+Date:   Sat Oct 3 13:58:37 2015 +0800
+
+    generate conficition in branch test
+
+commit 22a24e7f1ea3db1fb30c7df4e46f4fea39c8bade
+Author: shen <123@123.com>
+Date:   Sat Oct 3 13:57:07 2015 +0800
+
+    modify add_file
+
+commit f9b678cbca09d0345f22ee95743ad7032c6a9564
+Merge: 50f18b8 609a4cc
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 12:58:06 2015 +0800
+
+    Merge pull request #6 from shenwenbin05/test
+    
+    Test
+
+commit 609a4ccf6558112ceb4864e347824c17c56d7077
+Author: shen <123@123.com>
+Date:   Sat Oct 3 12:43:59 2015 +0800
+
+     This is a combination of 3 commits.
+
+commit 50f18b8779fd095fde262b4e994d4c2051bb39c1
+Merge: f2b7200 da9c5fc
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Oct 3 12:38:44 2015 +0800
+
+    Merge pull request #5 from shenwenbin05/test
+    
+    Test
+
+commit f32e19aa2e0ebb13626af02281d122f7fcd6300f
+Merge: da9c5fc f2b7200
+Author: shen <123@123.com>
+Date:   Sat Oct 3 12:34:16 2015 +0800
+
+    Merge branch 'master' of https://github.com/shenwenbin05/hello-world into test
+
+commit da9c5fc6323fa48e34771e971b81327710acd39b
+Author: shen <123@123.com>
+Date:   Sat Oct 3 12:27:22 2015 +0800
+
+    confict 2nd
+
+commit 04cf2440e13349eeced565c4a9b293d15ee4ac8f
+Merge: ea07b19 7d079cc
+Author: shen <123@123.com>
+Date:   Sat Oct 3 12:21:34 2015 +0800
+
+    confict
+
+commit ea07b190863e176d40dff84f7800fc209fff7eb1
+Author: shen <123@123.com>
+Date:   Thu Oct 1 14:08:56 2015 +0800
+
+    add one line through branch test  ---git rebase HEAD~4
+
+commit 7d079ccdcb269ddc5a35b6bcabdde3622d81d572
+Merge: afde037 833af5d
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Fri Oct 2 18:21:28 2015 +0800
+
+    Merge pull request #4 from shenwenbin05/hotfix
+    
+    add new line in branch hotfix
+
+commit 833af5d79f691766f62cd9a3a875ac8db566c46d
+Author: shen <123@123.com>
+Date:   Fri Oct 2 18:09:29 2015 +0800
+
+    add new line in branch hotfix
+
+commit f2b7200f8b353c976ce8a42b4622cac7423f33ef
+Merge: 53660a3 afde037
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Fri Oct 2 17:52:00 2015 +0800
+
+    Merge pull request #3 from shenwenbin05/test
+    
+    Test
+
+commit afde03736410c8897ec5d56cd48c26b775840461
+Author: shen <123@123.com>
+Date:   Fri Oct 2 14:05:22 2015 +0800
+
+    initial commit
+    git commit --amend
+
+commit 778363823b1e7e061ba155dca5e9d0cebe5f177e
+Author: shen <123@123.com>
+Date:   Fri Oct 2 11:36:54 2015 +0800
+
+    提交环节，存在三大部分：working tree, index file, commit
+    
+    这三大部分中：
+    working tree：就是你所工作在的目录，每当你在代码中进行了修改，working
+    tree的状态就改变了。
+    index file：是索引件，它是连接working
+    tree和commit的桥梁，每当我们使用git-add命令来登记后，index
+    file的内容就改变了，此时index file就和working tree同步了。
+    commit：是最后的阶段，只有commit了，我们的代码才真正进入了git仓库。我们使用git-commit就是将index
+    file里的内容提交到commit中。
+    
+    总结一下：
+    git diff：是查看working tree与index file的差别的。
+    git diff --cached：是查看index file与commit的差别的。
+    git diff HEAD：是查看working
+    tree和commit的差别的。（你一定没有忘记，HEAD代表的是最近的一次commit的信息）
+
+commit 5ad65a2e74540b494a692482484575a66ceba459
+Author: shen <123@123.com>
+Date:   Thu Oct 1 14:08:56 2015 +0800
+
+    add one line through branch test
+
+commit 53660a32d229dc3b84275ab6a5bec45cb812f162
+Author: shen <123@123.com>
+Date:   Thu Oct 1 13:48:07 2015 +0800
+
+    add new file add_file.txt
+
+commit 6463baa84db2a7d17515974847afe8f1135d6a8f
+Author: shen <123@123.com>
+Date:   Sat Aug 15 16:30:40 2015 +0800
+
+    modified on my PC
+
+commit 1740184bc13b74ef48305cbef9ad0858b82e6ee9
+Merge: 9183295 ec54845
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Aug 15 15:15:59 2015 +0800
+
+    Merge pull request #2 from shenwenbin05/readme-edits
+    
+    finish my first testing Readme
+
+commit ec54845eaa690a24d487cbed48ba9068f538500a
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Aug 15 13:03:44 2015 +0800
+
+    finish my first testing Readme
+    
+    finish my first testing Readme -- additional message
+
+commit 91832953d6298c4967efce91345fd5ec8e846687
+Author: shenwenbin05 <shenwenbin05@sina.com>
+Date:   Sat Aug 15 12:13:10 2015 +0800
+
+    Initial commit
