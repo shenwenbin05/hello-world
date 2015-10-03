@@ -10,3 +10,8 @@ git commit --amend
 
 add new line in branch 'hotfix'
 
+1
+
+2
+
+3
